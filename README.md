@@ -5,8 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=Ikenachi2023" alt="Ikenachi2023" />
   </a>
   <br>
-:ghost: いけなちのGitHub Profileへようこそ！ :ghost:
-  𝓌ℯ𝓁𝒸ℴ𝓂ℯ
+:ghost: 𝚆𝚎𝚕𝚌𝚘𝚖𝚎　𝚝𝚘　𝙸𝚔𝚎𝚗𝚊𝚌𝚑𝚒＇𝚜　𝙶𝚒𝚝𝙷𝚞𝚋 :ghost:
 <br>Learning about:
 <br><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70">
 <img src="https://github.com/user-attachments/assets/9bc61648-0ed8-4acc-be61-2c04dd02b04d" width="70"> 
