@@ -1,5 +1,8 @@
 > [!WARNING]  
 > 工事中のため、クオリティに重大な問題あり。
+
+![color](https://typograssy.deno.dev/api?text=Wellcome%20to%20Ikenachi%20Land!%20&l1=9ba8e9&l2=6d74d9&l3=5057b9&l4=21226e)
+
 <p align="left">
   <a href="https://github.com/Ikenachi2023">
     <img src="https://komarev.com/ghpvc/?username=Ikenachi2023" alt="Ikenachi2023" />
@@ -15,6 +18,3 @@
 あんどもあ
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ikenachi2023&show_icons=true&theme=radical)
-
-<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" color="aqua" src="https://typograssy.deno.dev/api?text=Wellcome%20to%20Ikenachi%20Land!%20"></a>
-![color](https://typograssy.deno.dev/api?text=Wellcome%20to%20Ikenachi%20Land!%20&l1=9ba8e9&l2=6d74d9&l3=5057b9&l4=21226e)
