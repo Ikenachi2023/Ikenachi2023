@@ -16,3 +16,5 @@
 <img src="https://github.com/user-attachments/assets/8e63c76d-a5a1-4904-929a-9bc8f66d9e52" width="70">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ikenachi2023&show_icons=true&theme=radical)
+
+<https://github-readme-stats.vercel.app/api/top-langs/?username=hoge&layout=compact&theme=dracula>
