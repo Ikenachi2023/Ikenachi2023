@@ -1,6 +1,3 @@
-> [!WARNING]  
-> 工事中のため、クオリティに重大な問題あり。
-
 ![color](https://typograssy.deno.dev/api?text=Wellcome%20to%20Ikenachi%20Land!%20&l1=9ba8e9&l2=6d74d9&l3=5057b9&l4=21226e)
 
 <p align="left">
