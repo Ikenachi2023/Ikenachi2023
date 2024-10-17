@@ -12,11 +12,6 @@
 <img src="https://github.com/user-attachments/assets/1038155e-8f72-4a48-a41a-d738520e11bf" width="70">
 <img src="https://github.com/user-attachments/assets/8e63c76d-a5a1-4904-929a-9bc8f66d9e52" width="70">
 <img src="https://github.com/user-attachments/assets/079b90f1-ad47-4fe1-bb48-468ff8b0db6b" width="70">
-あんどもあ
+<img src="https://github.com/user-attachments/assets/6e36406d-5d04-46d5-8b93-3beeace8a3f2" width="70">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ikenachi2023&show_icons=true&theme=radical)
-
-![Uploading P8LgPBKZcMHO9iM4MRtl1729136772-1729136785.gif…]()
-
-
-https://www.youtube.com/watch?v=v6OG5qCYc9g&ab_channel=%E3%82%86%E3%82%8B%E8%A8%80%E8%AA%9E%E5%AD%A6%E3%83%A9%E3%82%B8%E3%82%AA
