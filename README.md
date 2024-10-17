@@ -5,7 +5,7 @@
 <br>Learning about:
 <br><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70">
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="70">
-<img src="https://github.com/user-attachments/assets/dde42c34-cbdd-4f57-880b-3da46a291882" width="70">
-<img src="https://github.com/user-attachments/assets/061b0ad7-de20-4d43-bc5a-8253a43834b7" width="70">
-<img src="https://github.com/user-attachments/assets/20360d7b-2749-49db-8ff2-fe423253d512" width="70">
+<img src="https://github.com/user-attachments/assets/1038155e-8f72-4a48-a41a-d738520e11bf" width="70">
+<img src="https://github.com/user-attachments/assets/8e63c76d-a5a1-4904-929a-9bc8f66d9e52" width="70">
+<img src="https://github.com/user-attachments/assets/079b90f1-ad47-4fe1-bb48-468ff8b0db6b" width="70">
 あんど　C#,AtCoder
