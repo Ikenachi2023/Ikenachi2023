@@ -14,4 +14,4 @@
 <img src="https://github.com/user-attachments/assets/079b90f1-ad47-4fe1-bb48-468ff8b0db6b" width="70">
 あんどもあ
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ikenachi2023&show_icons=true&theme=radical)
