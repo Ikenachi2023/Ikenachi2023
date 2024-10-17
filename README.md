@@ -2,7 +2,7 @@
 > 工事中のため、クオリティに重大な問題あり。
 <p align="left">
   <a href="https://github.com/Ikenachi2023">
-    <img src="https://komarev.com/ghpvc/?username=Ikenachi2023" alt="Ikenachi223" />
+    <img src="https://komarev.com/ghpvc/?username=Ikenachi2023" alt="Ikenachi2023" />
   </a>
   <br>
 :ghost: いけなちのGitHub Profileへようこそ！ :ghost:
