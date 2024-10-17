@@ -1,4 +1,4 @@
-![color](https://typograssy.deno.dev/api?text=Wellcome%20to%20Ikenachi%20Land!%20&l1=9ba8e9&l2=6d74d9&l3=5057b9&l4=21226e)
+![color](https://typograssy.deno.dev/api?text=Welcome%20to%20Ikenachi%20Land!%20&l1=9ba8e9&l2=6d74d9&l3=5057b9&l4=21226e)
 
 <p align="left">
   <a href="https://github.com/Ikenachi2023">
@@ -6,6 +6,7 @@
   </a>
   <br>
 :ghost: いけなちのGitHub Profileへようこそ！ :ghost:
+  𝓌ℯ𝓁𝒸ℴ𝓂ℯ
 <br>Learning about:
 <br><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70">
 <img src="https://github.com/user-attachments/assets/9bc61648-0ed8-4acc-be61-2c04dd02b04d" width="70"> 
@@ -17,4 +18,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ikenachi2023&show_icons=true&theme=radical)
 
-<https://github-readme-stats.vercel.app/api/top-langs/?username=hoge&layout=compact&theme=dracula>
