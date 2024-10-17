@@ -15,7 +15,7 @@
 <img src="https://github.com/user-attachments/assets/1038155e-8f72-4a48-a41a-d738520e11bf" width="70">
 <img src="https://github.com/user-attachments/assets/8e63c76d-a5a1-4904-929a-9bc8f66d9e52" width="70">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ikenachi2023&column=3&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ikenachi2023&column=4&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ikenachi2023&show_icons=true&theme=radical)
 
