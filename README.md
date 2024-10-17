@@ -16,4 +16,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ikenachi2023&show_icons=true&theme=radical)
 
-[![typograssy](https://typograssy.deno.dev/api?text=cats)](https://github.com/kawarimidoll/typograssy)
+[![typograssy](https://typograssy.deno.dev/api?text=welcome_to_ikenachi_land)](https://github.com/kawarimidoll/typograssy)
