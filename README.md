@@ -18,5 +18,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="70">
 <img src="https://github.com/user-attachments/assets/1038155e-8f72-4a48-a41a-d738520e11bf" width="70">
 <img src="https://github.com/user-attachments/assets/8e63c76d-a5a1-4904-929a-9bc8f66d9e52" width="70">
+<img src="https://github.com/user-attachments/assets/22da2abd-2e99-412e-b467-77bf6534f4fb" width="70">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ikenachi2023&show_icons=true&theme=radical)
