@@ -1,3 +1,7 @@
+<p align="left">
+  <a href="https://github.com/Ikenachi2023">
+    <img src="https://komarev.com/ghpvc/?username=Ikenachi2023" alt="Ikenachi2023" />
+  </a>
 :ghost: いけなちのGitHub Profileへようこそ！ :ghost:
 > [!WARNING]  
 > 工事中のため、クオリティに重大な問題あり。
