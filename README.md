@@ -8,4 +8,4 @@
 <img src="https://github.com/user-attachments/assets/1038155e-8f72-4a48-a41a-d738520e11bf" width="70">
 <img src="https://github.com/user-attachments/assets/8e63c76d-a5a1-4904-929a-9bc8f66d9e52" width="70">
 <img src="https://github.com/user-attachments/assets/079b90f1-ad47-4fe1-bb48-468ff8b0db6b" width="70">
-あんど　C#,AtCoder
+あんどもあ
