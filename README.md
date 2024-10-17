@@ -8,7 +8,7 @@
   <br>
 :ghost: 𝚆𝚎𝚕𝚌𝚘𝚖𝚎　𝚝𝚘　𝙸𝚔𝚎𝚗𝚊𝚌𝚑𝚒＇𝚜　𝙶𝚒𝚝𝙷𝚞𝚋 :ghost:
 <br>
-> 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚊𝚋𝚘𝚞𝚝:
+𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚊𝚋𝚘𝚞𝚝:
 <br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70">
@@ -20,5 +20,3 @@
 <img src="https://github.com/user-attachments/assets/8e63c76d-a5a1-4904-929a-9bc8f66d9e52" width="70">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ikenachi2023&show_icons=true&theme=radical)
-
-📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: ⚠工事中⚠
