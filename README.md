@@ -16,4 +16,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ikenachi2023&show_icons=true&theme=radical)
 
-[![typograssy](https://typograssy.deno.dev/api?text=welcome_to_ikenachi_land)](https://github.com/kawarimidoll/typograssy)
+<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" color="aqua" src="https://typograssy.deno.dev/api?text=Wellcome%20to%20Ikenachi%20Land!%20"></a>
