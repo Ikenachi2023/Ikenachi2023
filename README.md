@@ -15,3 +15,5 @@
 あんどもあ
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ikenachi2023&show_icons=true&theme=radical)
+
+https://www.youtube.com/watch?v=v6OG5qCYc9g&ab_channel=%E3%82%86%E3%82%8B%E8%A8%80%E8%AA%9E%E5%AD%A6%E3%83%A9%E3%82%B8%E3%82%AA
