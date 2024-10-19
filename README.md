@@ -21,3 +21,7 @@
 <img src="https://github.com/user-attachments/assets/22da2abd-2e99-412e-b467-77bf6534f4fb" width="70">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ikenachi2023&show_icons=true&theme=radical)
+
+twitter:@ikenachi2023
+Zenn:@catz
+Both have the username "CoffeeCatz" 
