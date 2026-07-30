@@ -24,9 +24,5 @@
 <br>
 How to reach me:
 <br>
-   twitter:@ikenachi2023
-<br>
    Zenn:@catz
-<br>
-Both have the username "Ikenachi" 
 <br>
