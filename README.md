@@ -1,4 +1,4 @@
-![color](https://typograssy.deno.dev/api?text=Welcome%20to%20Ikenachi%20Land!%20&l1=9ba8e9&l2=6d74d9&l3=5057b9&l4=21226e)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6D74D9&width=500&height=60&lines=Welcome+to+Ikenachi+Land!)](https://git.io/typing-svg)
 
 <p align="left">
   <a href="https://github.com/Ikenachi2023">
@@ -6,7 +6,7 @@
   </a>
   
   <br>
-:ghost: 𝚆𝚎𝚕𝚌𝚘𝚖𝚎　𝚝𝚘　𝙸𝚔𝚎𝚗𝚊𝚌𝚑𝚒＇𝚜　𝙶𝚒𝚝𝙷𝚞𝚋 :ghost:
+:ghost: 𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝙸𝚔𝚎𝚗𝚊𝚌𝚑𝚒＇𝚜 𝙶𝚒𝚝𝙷𝚞𝚋 :ghost:
 <br>
 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚊𝚋𝚘𝚞𝚝:
 <br>
@@ -19,7 +19,7 @@
 <img src="https://github.com/user-attachments/assets/1038155e-8f72-4a48-a41a-d738520e11bf" width="70">
 <img src="https://github.com/user-attachments/assets/8e63c76d-a5a1-4904-929a-9bc8f66d9e52" width="70">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ikenachi2023&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ikenachi2023&show_icons=true&theme=radical&v=1)
 
 <br>
 How to reach me:
