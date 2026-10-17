@@ -3,11 +3,6 @@
   <!-- ヘッダーバナー（ゴシック・マナー風カラー） -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05020a,50:240046,100:5a189a&height=180&section=header&text=Ikenachi&fontSize=60&fontColor=e0aaff&animation=fadeIn&fontAlignY=40" />
 
-  <!-- タイピングアニメーション（シンプルな自己紹介） -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&pause=1500&color=C77DFF&center=true&vCenter=true&width=550&height=50&lines=👻+Welcome+to+Ikenachi's+GitHub;Hardware+%26+Software+Developer" alt="Typing SVG" />
-  </a>
-
   <br><br>
 
   <!-- リンクバッジ（リンク切れしないShields.io製） -->
